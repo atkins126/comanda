@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/01 22:57:56.000.688,=C:\devcode\99coders\embarcadero\Unit1.pas</Transaction>
+    <Transaction>2020/09/01 23:04:49.000.970,C:\devcode\99coders\embarcadero\Unit1.pas=C:\devcode\99coders\Comanda\Mobile\UnitLogin.pas</Transaction>
+    <Transaction>2020/09/01 23:04:49.000.970,C:\devcode\99coders\embarcadero\Unit1.fmx=C:\devcode\99coders\Comanda\Mobile\UnitLogin.fmx</Transaction>
+    <Transaction>2020/09/01 23:04:59.000.629,C:\devcode\99coders\embarcadero\Project1.dproj=C:\devcode\99coders\Comanda\Mobile\Comanda.dproj</Transaction>
+    <Transaction>2020/09/01 23:45:16.000.341,=C:\devcode\99coders\Comanda\Mobile\Unit2.pas</Transaction>
+    <Transaction>2020/09/01 23:46:18.000.989,C:\devcode\99coders\Comanda\Mobile\Unit2.pas=C:\devcode\99coders\Comanda\Mobile\UnitPrincipal.pas</Transaction>
+    <Transaction>2020/09/01 23:46:18.000.989,C:\devcode\99coders\Comanda\Mobile\Unit2.fmx=C:\devcode\99coders\Comanda\Mobile\UnitPrincipal.fmx</Transaction>
+    <Transaction>2020/09/02 00:46:31.000.662,=C:\devcode\99coders\Comanda\Mobile\Unit1.pas</Transaction>
+    <Transaction>2020/09/02 00:47:24.000.064,C:\devcode\99coders\Comanda\Mobile\Unit1.fmx=C:\devcode\99coders\Comanda\Mobile\UnitResumo.fmx</Transaction>
+    <Transaction>2020/09/02 00:47:24.000.064,C:\devcode\99coders\Comanda\Mobile\Unit1.pas=C:\devcode\99coders\Comanda\Mobile\UnitResumo.pas</Transaction>
+    <Transaction>2020/09/02 00:48:14.000.039,=C:\devcode\99coders\Comanda\Mobile\Unit1.pas</Transaction>
+    <Transaction>2020/09/02 00:49:03.000.029,C:\devcode\99coders\Comanda\Mobile\Unit1.fmx=C:\devcode\99coders\Comanda\Mobile\UnitAddItem.fmx</Transaction>
+    <Transaction>2020/09/02 00:49:03.000.029,C:\devcode\99coders\Comanda\Mobile\Unit1.pas=C:\devcode\99coders\Comanda\Mobile\UnitAddItem.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
