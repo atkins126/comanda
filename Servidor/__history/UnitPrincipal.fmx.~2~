@@ -1,0 +1,27 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Servidor'
+  ClientHeight = 627
+  ClientWidth = 340
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Label1: TLabel
+    StyledSettings = [Family, FontColor]
+    Position.X = 32.000000000000000000
+    Position.Y = 32.000000000000000000
+    TextSettings.Font.Size = 16.000000000000000000
+    TextSettings.Font.StyleExt = {00060000000000000004000000}
+    Text = 'Servidor Ativo'
+    TabOrder = 1
+  end
+  object Switch: TSwitch
+    IsChecked = True
+    Position.X = 152.000000000000000000
+    Position.Y = 29.000000000000000000
+    TabOrder = 2
+  end
+end
